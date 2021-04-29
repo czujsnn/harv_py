@@ -1,5 +1,5 @@
 # harv_py
-Simple exe/client-server web e-mail harvester from 2019
+Simple exe/client-server web e-mail harvester using `BeautifulSoup` and `Socket` python library from 2019.
 
 # exe mode:
 >Input desired page in URL-type format to cfg.ini file, and run `harvester_1.1.exe`
